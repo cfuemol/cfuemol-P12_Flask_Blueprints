@@ -8,3 +8,4 @@ INFO:root:GET /api/ping
 INFO:root:GET /info
 INFO:root:GET /
 INFO:root:GET /
+INFO:root:GET /

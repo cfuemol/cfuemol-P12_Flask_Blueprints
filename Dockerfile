@@ -14,6 +14,7 @@ FROM python:3.11-slim
 
 WORKDIR /app
 COPY --from=build /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/
+COPY --from=build /usr/local/bin /usr/local/bin
 COPY . .
 
 EXPOSE 8000
