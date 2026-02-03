@@ -18,3 +18,4 @@ INFO:root:GET /
 INFO:root:GET /
 INFO:root:GET /api/status
 INFO:root:GET /info
+INFO:root:GET /
